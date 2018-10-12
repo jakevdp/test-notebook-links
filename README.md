@@ -3,9 +3,9 @@ Testing some colab links
 
 [google](http://google.com)
 
-[localhost](http://localhost:8888)
+[localhost](https://localhost:8888)
 
-[localhost/github](http://localhost:8888/github)
+[localhost/github](https://localhost:8888/github)
 
 [colab](http://colab.research.google.com)
 
